@@ -20,11 +20,11 @@
     + Developers have the same feature but to sort projects.
 
 ## Screenshots
-![The Hompage With The Developer Search Selected](./public/homePageWithSearch.jpg)
+![The Hompage With The Developer Search Selected](https://github.com/UltraFerous/finalProjectLHL/blob/main/public/homePage.jpg)
 
-![The Main Messaging Page](./public/messagingPage.jpg)
+![The Main Messaging Page](https://github.com/UltraFerous/finalProjectLHL/blob/main/public/messagingPage.jpg)
 
-![The Project Creation Page ](./public/projectCreationPage.jpg)
+![The Project Creation Page ](https://github.com/UltraFerous/finalProjectLHL/blob/main/public/projectCreationPage.jpg)
 
 ## Client Commands
 npm run dev 
